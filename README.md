@@ -1,4 +1,4 @@
-![Header](./your-header-image-name.png)
+![Header](./github-header-banner.png)
 
 # 💫 About Me:
 👋 Hi, I’m @jlandaa<br>👀 I’m interested in computer's science, more specifically data science, data analysis, machine learning, deep learning.<br>I seek to collaborate in the tasks assigned to me.<br>📫 email:jmlanda93@gmail.com
