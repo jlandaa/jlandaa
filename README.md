@@ -1,14 +1,35 @@
 ![Header](./github-header-banner.png)
 
 # 💫 About Me:
-👋 Hi, I’m @jlandaa<br>👀 I’m interested in computer's science, more specifically data science, data analysis, machine learning, deep learning.<br> I seek to collaborate in the tasks assigned to me.
-<br>📫 email:jmlanda93@gmail.com<br>
-website: https://juan-manuel-landa.netlify.app
+[cite_start]👋 Hi, I’m **Juan Manuel Landa** [cite: 1]
+[cite_start]🚀 **Computer Engineer** with over 2 years of experience as a **Data Analyst** and **BI Consultant**[cite: 2, 3].
+[cite_start]📊 Specialized in designing **ETL processes**, **KPI visualization**, and **report automation** in corporate environments[cite: 3].
+[cite_start]⚙️ Proven track record in reducing manual errors by up to 60% and improving response times by 50%[cite: 5].
+[cite_start]🎓 Graduated in **Computer Engineering** from UADE[cite: 22, 23].
 
+[cite_start]📫 **Email:** jmlanda93@gmail.com [cite: 2]
+[cite_start]🔗 **LinkedIn:** [linkedin.com/in/juan-manuel-landa](https://linkedin.com/in/juan-manuel-landa) [cite: 2]
+[cite_start]🌐 **Website:** [juan-manuel-landa.netlify.app](https://juan-manuel-landa.netlify.app) [cite: 38]
 
 # 💻 Tech Stack:
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
+### 📊 Business Intelligence & Visualization
+[cite_start]![MicroStrategy](https://img.shields.io/badge/MicroStrategy-7B2B8F?style=for-the-badge&logo=microstrategy&logoColor=white) ![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) ![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=google-looker&logoColor=white) [cite: 4, 31]
+
+### 🐍 Programming & Data Science
+[cite_start]![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) [cite: 25]
+
+### 🗄️ Databases & Cloud
+[cite_start]![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Amazon Redshift](https://img.shields.io/badge/Amazon%20Redshift-8C4FFF?style=for-the-badge&logo=amazon-redshift&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) [cite: 4, 27]
+
+### ⚙️ ETL & Orchestration
+[cite_start]![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![SSIS](https://img.shields.io/badge/SSIS-SQL%20Integration-blue?style=for-the-badge) ![Talend](https://img.shields.io/badge/Talend-FF6D70?style=for-the-badge&logo=Talend&logoColor=white) [cite: 4, 29]
+
+# 📜 Certifications:
+* [cite_start]**MicroStrategy:** Certified Project Architect, Administrator, Database Administrator, and ONE Professional[cite: 34].
+* [cite_start]**Alation:** Certified Professional - Consultant & Seller[cite: 35].
+* [cite_start]**Soda:** Cloud Fundamentals[cite: 36].
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=jlandaa&theme=default&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=jlandaa&theme=default&hide_border=false)<br/>
@@ -16,5 +37,3 @@ website: https://juan-manuel-landa.netlify.app
 
 ---
 [![](https://visitcount.itsvg.in/api?id=jlandaa&icon=0&color=12)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
