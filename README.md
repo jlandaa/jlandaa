@@ -1,15 +1,15 @@
 ![Header](./github-header-banner.png)
 
 # 💫 About Me:
-👋 Hi, I’m **Juan Manuel Landa**
-🚀 **Computer Engineer** with over 2 years of experience as a **Data Analyst** and **BI Consultant**.
-📊 Specialized in designing **ETL processes**, **KPI visualization**, and **report automation** in corporate environments.
-⚙️ Proven track record in reducing manual errors by up to 60% and improving response times by 50%.
-🎓 Graduated in **Computer Engineering** from UADE.
+* 👋 Hi, I’m **Juan Manuel Landa**
+* 🚀 **Computer Engineer** with over 2 years of experience as a **Data Analyst** and **BI Consultant**.
+* 📊 Specialized in designing **ETL processes**, **KPI visualization**, and **report automation** in corporate environments.
+* ⚙️ Proven track record in reducing manual errors by up to 60% and improving response times by 50%.
+* 🎓 Graduated in **Computer Engineering** from UADE.
 
-📫 **Email:** jmlanda93@gmail.com
-🔗 **LinkedIn:** [linkedin.com/in/juan-manuel-landa](https://linkedin.com/in/juan-manuel-landa)
-🌐 **Website:** [juan-manuel-landa.netlify.app](https://juan-manuel-landa.netlify.app)
+ 📫 **Email:** jmlanda93@gmail.com
+ 🔗 **LinkedIn:** [linkedin.com/in/juan-manuel-landa](https://linkedin.com/in/juan-manuel-landa)
+ 🌐 **Website:** [juan-manuel-landa.netlify.app](https://juan-manuel-landa.netlify.app)
 
 # 💻 Tech Stack:
 ### 📊 Business Intelligence & Visualization
