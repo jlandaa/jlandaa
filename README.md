@@ -30,9 +30,9 @@
 * **Soda:** Cloud Fundamentals.
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=jlandaa&show_icons=true&theme=default&hide_border=false&count_private=true&v=1)
-![](https://nirzak-streak-stats.vercel.app/?user=jlandaa&theme=default&hide_border=false&v=1)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jlandaa&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact&hide=java&v=1)
+![](https://github-readme-stats.vercel.app/api?username=jlandaa&show_icons=true&theme=default&hide_border=false&v=2)
+![](https://nirzak-streak-stats.vercel.app/?user=jlandaa&theme=default&hide_border=false&v=2)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jlandaa&theme=default&hide_border=false&include_all_commits=true&layout=compact&hide=java&v=2)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=jlandaa&icon=0&color=12)](https://visitcount.itsvg.in)
