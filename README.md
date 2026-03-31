@@ -30,9 +30,12 @@
 * **Soda:** Cloud Fundamentals.
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats-eight-zeta-39.vercel.app/api?username=jlandaa&show_icons=true&theme=default&hide_border=false&count_private=true&include_all_commits=true&v=6)
-![](https://nirzak-streak-stats.vercel.app/?user=jlandaa&theme=default&hide_border=false&v=6)<br/>
-![](https://github-readme-stats-eight-zeta-39.vercel.app/api/top-langs/?username=jlandaa&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact&hide=java,javascript,css,html&v=6)
+
+![](https://github-readme-stats-eight-zeta-39.vercel.app/api?username=jlandaa&show_icons=true&theme=default&count_private=true&include_all_commits=true&v=11)
+
+![](https://github-readme-streak-stats-one-pi-50.vercel.app/?user=jlandaa&theme=default&v=102)
+
+![](https://github-readme-stats-eight-zeta-39.vercel.app/api/top-langs/?username=jlandaa&theme=default&layout=compact&hide=java,javascript,css,html&count_private=true&v=11)
 
 ---
 ![Visitas de perfil](https://komarev.com/ghpvc/?username=jlandaa&color=blue&style=flat-square&label=Profile+Views)
