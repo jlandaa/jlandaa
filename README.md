@@ -31,7 +31,7 @@
 
 ⚡ **Current Focus:**
 * 🎯 **Open to:** Full-time corporate roles within the Data and Business Intelligence sectors.
-🌱 **Currently exploring:** Advanced ETL automation and the seamless integration of Python workflows with enterprise BI platforms.
+* 🌱 **Currently exploring:** Advanced ETL automation and the seamless integration of Python workflows with enterprise BI platforms.
 
 # 📊 GitHub Stats:
 
