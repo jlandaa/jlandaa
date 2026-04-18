@@ -24,10 +24,14 @@
 ### ⚙️ ETL & Orchestration
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![SSIS](https://img.shields.io/badge/SSIS-SQL%20Integration-blue?style=for-the-badge) ![Talend](https://img.shields.io/badge/Talend-FF6D70?style=for-the-badge&logo=Talend&logoColor=white)
 
-# 📜 Certifications:
-* **MicroStrategy:** Certified Project Architect, Administrator, Database Administrator, and ONE Professional.
-* **Alation:** Certified Professional - Consultant & Seller.
-* **Soda:** Cloud Fundamentals.
+📜 **Certifications:**
+* 🏆 **MicroStrategy:** Certified Project Architect, Administrator, Database Administrator, and ONE Professional.
+* 🏅 **Alation:** Certified Professional - Consultant & Seller.
+* ☁️ **Soda:** Cloud Fundamentals.
+
+⚡ **Current Focus:**
+* 🎯 **Open to:** Full-time corporate roles within the Data and Business Intelligence sectors.
+* 🌱 **Currently exploring:** Deeper integrations with Databricks and extending MLOps architectures for predictive models.
 
 # 📊 GitHub Stats:
 
@@ -36,6 +40,7 @@
 ![](https://github-readme-streak-stats-one-pi-50.vercel.app/?user=jlandaa&theme=default&v=102)
 
 ![](https://github-readme-stats-eight-zeta-39.vercel.app/api/top-langs/?username=jlandaa&theme=default&layout=compact&hide=java,javascript,css,html&count_private=true&v=11)
+
 
 ---
 ![Visitas de perfil](https://komarev.com/ghpvc/?username=jlandaa&color=blue&style=flat-square&label=Profile+Views)
