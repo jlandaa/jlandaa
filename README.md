@@ -39,7 +39,7 @@
 
 ![](https://github-readme-streak-stats-one-pi-50.vercel.app/?user=jlandaa&theme=default&v=102)
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jlandaa&bg_color=FFFFFF&color=000000&line=0099FF&point=000000&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jlandaa&bg_color=FFFFFF&color=000000&line=0099FF&point=000000&hide_border=true&hide_title=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ---
