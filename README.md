@@ -37,7 +37,7 @@
 
 <img src="https://github-readme-stats-eight-zeta-39.vercel.app/api?username=jlandaa&show_icons=true&theme=default&count_private=true&include_all_commits=true&hide=stars,prs,issues,contribs&hide_rank=true&v=11" align="top" width="49%" /> <img src="https://github-readme-streak-stats-one-pi-50.vercel.app/?user=jlandaa&theme=default&v=102" align="top" width="49%" />
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jlandaa&bg_color=FFFFFF&color=000000&line=0099FF&point=000000&hide_border=true&hide_title=true)](https://github-readme-activity-graph.vercel.app)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jlandaa&bg_color=FFFFFF&color=000000&line=0099FF&point=000000&hide_border=true)](https://github-readme-activity-graph.vercel.app)
 
 
 ---
