@@ -24,6 +24,8 @@
 ### ⚙️ ETL & Orchestration
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![SSIS](https://img.shields.io/badge/SSIS-SQL%20Integration-blue?style=for-the-badge) ![Talend](https://img.shields.io/badge/Talend-FF6D70?style=for-the-badge&logo=Talend&logoColor=white)
 
+![](https://github-readme-stats-eight-zeta-39.vercel.app/api/top-langs/?username=jlandaa&theme=default&layout=compact&hide=java,javascript,css,html&count_private=true&v=11)
+
 📜 **Certifications:**
 * 🏆 **MicroStrategy:** Certified Project Architect, Administrator, Database Administrator, and ONE Professional.
 * 🏅 **Alation:** Certified Professional - Consultant & Seller.
@@ -35,14 +37,7 @@
 
 # 📊 GitHub Stats:
 
-<img src="https://github-readme-streak-stats-one-pi-50.vercel.app/?user=jlandaa&theme=default&v=102" align="right" width="49%" />
-
-<img src="https://github-readme-stats-eight-zeta-39.vercel.app/api?username=jlandaa&show_icons=true&theme=default&count_private=true&include_all_commits=true&hide=stars,prs,issues,contribs&hide_rank=true&v=11" width="49%" />
-<br>
-<img src="https://github-readme-stats-eight-zeta-39.vercel.app/api/top-langs/?username=jlandaa&theme=default&layout=compact&hide=java,javascript,css,html&count_private=true&hide_border=true&v=11" />
-
-<br clear="all" />
-<br>
+<img src="https://github-readme-stats-eight-zeta-39.vercel.app/api?username=jlandaa&show_icons=true&theme=default&count_private=true&include_all_commits=true&hide=stars,prs,issues,contribs&hide_rank=true&v=11" align="top" width="49%" /> <img src="https://github-readme-streak-stats-one-pi-50.vercel.app/?user=jlandaa&theme=default&v=102" align="top" width="49%" />
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jlandaa&bg_color=FFFFFF&color=000000&line=0099FF&point=000000&hide_border=true&hide_title=true)](https://github-readme-activity-graph.vercel.app)
 
