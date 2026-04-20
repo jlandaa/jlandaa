@@ -41,6 +41,9 @@
 <br>
 <img src="https://github-readme-stats-eight-zeta-39.vercel.app/api/top-langs/?username=jlandaa&theme=default&layout=compact&hide=java,javascript,css,html&count_private=true&hide_border=true&v=11" />
 
+<br clear="all" />
+<br>
+
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jlandaa&bg_color=FFFFFF&color=000000&line=0099FF&point=000000&hide_border=true&hide_title=true)](https://github-readme-activity-graph.vercel.app)
 
 ---
