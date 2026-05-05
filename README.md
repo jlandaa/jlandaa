@@ -35,6 +35,15 @@
 * 🎯 **Open to:** Full-time corporate roles within the Data and Business Intelligence sectors.
 * 🌱 **Currently exploring:** Advanced ETL automation and the seamless integration of Python workflows with enterprise BI platforms.
 
+## 💖 Support my work
+
+If this tool saved you time, helped you solve a complex problem, or you are using it in production, consider supporting my open-source development! 
+
+Your support helps me cover cloud infrastructure costs and keeps these Data Engineering & AI boilerplates updated.
+
+* [☕ Buy me a coffee](https://github.com/sponsors/jlandaa)
+* [🤝 Book a 1-on-1 Consulting Call](https://github.com/sponsors/jlandaa)
+
 # 📊 GitHub Stats:
 
 <img src="https://github-readme-stats-eight-zeta-39.vercel.app/api?username=jlandaa&show_icons=true&theme=default&count_private=true&include_all_commits=true&hide=stars,prs,issues,contribs&hide_rank=true&v=11" align="top" width="49%" /> <img src="https://github-readme-streak-stats-one-pi-50.vercel.app/?user=jlandaa&theme=default&v=102" align="top" width="49%" />
