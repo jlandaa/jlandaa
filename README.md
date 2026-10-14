@@ -51,4 +51,4 @@ Your support helps me cover cloud infrastructure costs and keeps these Data Engi
 ![Activity Graph](https://github-readme-activity-graph-phi-ten.vercel.app/graph?username=jlandaa&bg_color=FFFFFF&color=000000&line=0099FF&point=000000&hide_border=true&hide_title=true)
 
 ---
-![Visitas de perfil](https://komarev.com/ghpvc/?username=jlandaa&color=blue&style=flat-square&label=Profile+Views&v=1)
+![Visitas de perfil](https://wsrv.nl/?url=komarev.com/ghpvc/?username=jlandaa&color=0078d4&style=flat-square)
