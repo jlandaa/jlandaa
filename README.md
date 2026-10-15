@@ -37,10 +37,12 @@
 
 ## 🚀 Live Portfolio & Apps
 ![Uptime](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/jlandaa/portfolio-monitor/main/uptime.json)
+[![ETL Frávega](https://github.com/jlandaa/Retail-Price-Scraper/actions/workflows/scraper_diario.yml/badge.svg)](https://github.com/jlandaa/Retail-Price-Scraper/actions)
 
 * 🤖 [Sales AI Chatbot](https://jml-ventas-ai.streamlit.app/) - Hybrid RAG
 * 📈 [ADR Dashboard](https://jml-dashboard-adr.streamlit.app/) - Argentine Market Analysis
 * 💳 [SmartCredit ML](https://jml-smartcredit-ml.streamlit.app/) - Predictive Model
+* 🛒 [Retail Price Scraper](https://github.com/jlandaa/Retail-Price-Scraper) - Automated ETL Pipeline (PySpark & Delta Lake)
 
 
 # 📊 GitHub Stats:
@@ -51,4 +53,11 @@
 
 ---
 ![Visitas de perfil](https://hits.sh/github.com/jlandaa/hits.svg?style=flat&label=Profile%20Views&color=0078d4)
+
+
+[![ETL Frávega](https://github.com/jlandaa/Retail-Price-Scraper/actions/workflows/scraper_diario.yml/badge.svg)](https://github.com/jlandaa/Retail-Price-Scraper/actions)
+
+
+
+
 
