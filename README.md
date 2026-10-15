@@ -43,6 +43,7 @@
 * 📈 [ADR Dashboard](https://jml-dashboard-adr.streamlit.app/) - Argentine Market Analysis
 * 💳 [SmartCredit ML](https://jml-smartcredit-ml.streamlit.app/) - Predictive Model
 * 🛒 [Retail Price Scraper](https://github.com/jlandaa/Retail-Price-Scraper) - Automated ETL Pipeline (PySpark & Delta Lake)
+* ⚙️ [Portfolio Monitor](https://github.com/jlandaa/portfolio-monitor) - DataOps & CI/CD Automation
 
 
 # 📊 GitHub Stats:
