@@ -35,14 +35,13 @@
 * 🎯 **Open to:** Full-time corporate roles within the Data and Business Intelligence sectors.
 * 🌱 **Currently exploring:** Advanced ETL automation and the seamless integration of Python workflows with enterprise BI platforms.
 
-## 💖 Support my work
+## 🚀 Live Portfolio & Apps
+![Uptime](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/jlandaa/portfolio-monitor/main/uptime.json)
 
-If this tool saved you time, helped you solve a complex problem, or you are using it in production, consider supporting my open-source development! 
+* 🤖 [Sales AI Chatbot](https://jml-ventas-ai.streamlit.app/) - Hybrid RAG
+* 📈 [ADR Dashboard](https://jml-dashboard-adr.streamlit.app/) - Argentine Market Analysis
+* 💳 [SmartCredit ML](https://jml-smartcredit-ml.streamlit.app/) - Predictive Model
 
-Your support helps me cover cloud infrastructure costs and keeps these Data Engineering & AI boilerplates updated.
-
-* [☕ Buy me a coffee](https://github.com/sponsors/jlandaa)
-* [🤝 Book a 1-on-1 Consulting Call](https://github.com/sponsors/jlandaa)
 
 # 📊 GitHub Stats:
 
@@ -52,3 +51,4 @@ Your support helps me cover cloud infrastructure costs and keeps these Data Engi
 
 ---
 ![Visitas de perfil](https://hits.sh/github.com/jlandaa/hits.svg?style=flat&label=Profile%20Views&color=0078d4)
+
