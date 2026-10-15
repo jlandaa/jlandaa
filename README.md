@@ -55,8 +55,6 @@
 ![Visitas de perfil](https://hits.sh/github.com/jlandaa/hits.svg?style=flat&label=Profile%20Views&color=0078d4)
 
 
-[![ETL Frávega](https://github.com/jlandaa/Retail-Price-Scraper/actions/workflows/scraper_diario.yml/badge.svg)](https://github.com/jlandaa/Retail-Price-Scraper/actions)
-
 
 
 
