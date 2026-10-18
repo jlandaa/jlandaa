@@ -37,7 +37,7 @@
 
 ## 🚀 Live Portfolio & Apps
 ![Uptime](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/jlandaa/portfolio-monitor/main/uptime.json)
-[![ETL Frávega](https://github.com/jlandaa/Retail-Price-Scraper/actions/workflows/scraper_diario.yml/badge.svg)](https://github.com/jlandaa/Retail-Price-Scraper/actions)
+[![ETL Frávega](https://github.com/jlandaa/Retail-Price-Scraper/actions/workflows/etl_fravega.yml/badge.svg)](https://github.com/jlandaa/Retail-Price-Scraper/actions)
 
 * 🤖 [Sales AI Chatbot](https://jml-ventas-ai.streamlit.app/) - Hybrid RAG
 * 📈 [ADR Dashboard](https://jml-dashboard-adr.streamlit.app/) - Argentine Market Analysis
