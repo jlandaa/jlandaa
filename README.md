@@ -40,10 +40,24 @@
 [![ETL Frávega](https://github.com/jlandaa/Retail-Price-Scraper/actions/workflows/etl_fravega.yml/badge.svg)](https://github.com/jlandaa/Retail-Price-Scraper/actions)
 
 * 🤖 [Sales AI Chatbot](https://jml-ventas-ai.streamlit.app/) - Text-to-SQL & Visual Analytics
+  
+  🛠️ `langchain` `bigquery` `docker` `gcp` `streamlit` `text-to-sql`
+  
 * 📈 [ADR Dashboard](https://jml-dashboard-adr.streamlit.app/) - Argentine Market Analysis
+  
+  🛠️ `data-engineering` `etl-pipeline` `python` `streamlit` `financial-analysis`
+  
 * 💳 [SmartCredit ML](https://jml-smartcredit-ml.streamlit.app/) - Predictive Model
+  
+  🛠️ `xgboost` `mlops` `shap` `bigquery` `explainable-ai` `streamlit`
+  
 * 🛒 [Retail Price Scraper](https://github.com/jlandaa/Retail-Price-Scraper) - Automated ETL Pipeline (PySpark & Delta Lake)
+  
+  🛠️ `pyspark` `delta-lake` `powerbi` `web-scraping` `competitive-intelligence`
+  
 * ⚙️ [Portfolio Monitor](https://github.com/jlandaa/portfolio-monitor) - DataOps & CI/CD Automation
+  
+  🛠️ `github-actions` `dataops` `ci-cd` `monitoring` `serverless` `selenium`
 
 
 # 📊 GitHub Stats:
