@@ -1,43 +1,57 @@
 ![Header](./github-header-banner.png)
 
 # 💫 About Me:
-* 👋 Hi, I’m **Juan Manuel Landa**
-* 🚀 **Computer Engineer** with over 2 years of experience as a **Data Analyst** and **BI Consultant**.
-* 📊 Specialized in designing **ETL processes**, **KPI visualization**, and **report automation** in corporate environments.
-* ⚙️ Proven track record in reducing manual errors by up to 60% and improving response times by 50%.
-* 🎓 Graduated in **Computer Engineering** from UADE.
+🚀 **Data & Analytics Engineer | Certified BI Consultant**
 
- 📫 **Email:** jmlanda93@gmail.com
- 🔗 **LinkedIn:** [linkedin.com/in/juan-manuel-landa](https://linkedin.com/in/juan-manuel-landa)
- 🌐 **Website:** [juan-manuel-landa.netlify.app](https://juan-manuel-landa.netlify.app)
+I bridge the gap between traditional Business Intelligence and modern, AI-driven data architectures to build scalable data products.
 
-# 💻 Tech Stack:
-### 📊 Business Intelligence & Visualization
-![MicroStrategy](https://img.shields.io/badge/MicroStrategy-D9232E?style=for-the-badge&logo=microstrategy&logoColor=white) ![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) ![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=google-looker&logoColor=white)
+* 🧠 **Focus:** Designing robust ETL pipelines, deploying predictive models (MLOps), and automating enterprise reporting.
+* ⚙️ **Impact:** Proven track record of reducing manual data errors by up **60%** and improving analytical response times by **50%** in corporate environments.
+* 🎓 **Background:** Computer Engineer (UADE) with advanced certifications in Data Governance, Quality, and Analytics.
 
-### 🐍 Programming & Data Science
-![SQL](https://img.shields.io/badge/SQL-00313f?style=for-the-badge&logo=database&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+<div align="left">
+  <a href="https://linkedin.com/in/juan-manuel-landa"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://juan-manuel-landa.netlify.app"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a>
+  <a href="mailto:tu-mail-enmascarado@duck.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</div>
 
-### 🗄️ Databases & Cloud
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Amazon Redshift](https://img.shields.io/badge/Amazon%20Redshift-8C4FFF?style=for-the-badge&logo=amazon-redshift&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+---
 
-### ⚙️ ETL & Orchestration
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![SSIS](https://img.shields.io/badge/SSIS-SQL%20Integration-blue?style=for-the-badge) ![Talend](https://img.shields.io/badge/Talend-FF6D70?style=for-the-badge&logo=Talend&logoColor=white)
+### 🛠️ Tech Stack & Tools
 
-![](https://github-readme-stats-eight-zeta-39.vercel.app/api/top-langs/?username=jlandaa&theme=default&layout=compact&hide=java,javascript,css,html&count_private=true&v=11)
+**Data Engineering, ETL & Orchestration**
 
-📜 **Certifications:**
-* 🏆 **MicroStrategy:** Certified Project Architect, Administrator, Database Administrator, and ONE Professional.
-* 🏅 **Alation:** Certified Professional - Consultant & Seller.
-* ☁️ **Soda:** Cloud Fundamentals.
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white) ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white) ![Delta Lake](https://img.shields.io/badge/Delta_Lake-00AEEF?style=for-the-badge&logo=databricks&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white) ![SSIS](https://img.shields.io/badge/SSIS-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
-⚡ **Current Focus:**
-* 🎯 **Open to:** Full-time corporate roles within the Data and Business Intelligence sectors.
-* 🌱 **Currently exploring:** Advanced ETL automation and the seamless integration of Python workflows with enterprise BI platforms.
+**Business Intelligence & Analytics**
+
+![MicroStrategy](https://img.shields.io/badge/MicroStrategy-D9232E?style=for-the-badge&logo=microstrategy&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
+**Databases & Cloud**
+
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=google-bigquery&logoColor=white) ![Amazon Redshift](https://img.shields.io/badge/Amazon_Redshift-8C4FFF?style=for-the-badge&logo=amazonredshift&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+**Programming, Data Science & Automation**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-172434?style=for-the-badge&logo=xgboost&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+
+**CI/CD & DevOps**
+
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### 🏆 Certifications & Data Governance
+
+* [![MicroStrategy Certified](https://img.shields.io/badge/MICROSTRATEGY-CERTIFIED-D9232E?style=for-the-badge&logo=microstrategy&logoColor=white)](#) **Certified Project Architect, Administrator, Database Administrator, and ONE Professional.**
+* [![Alation Certified](https://img.shields.io/badge/ALATION-CERTIFIED-2563EB?style=for-the-badge)](#) **Certified Professional - Consultant & Seller.**
+* [![Soda Data Quality](https://img.shields.io/badge/SODA-DATA_QUALITY-22C55E?style=for-the-badge)](#) **Cloud Fundamentals.**
+
+⚡ **Current Focus**:
+
+* 🎯 **Open to:** Full-time corporate roles as a Data Engineer, Analytics Engineer, or Senior BI Developer.
+* 🚀 **Currently building:** End-to-end data products integrating advanced ETL automation (Databricks/PySpark) with enterprise BI platforms, and deploying interactive Streamlit applications using Argentine market datasets (finance & public procurement).
 
 ## 🚀 Live Portfolio & Apps
 ![Uptime](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/jlandaa/portfolio-monitor/main/uptime.json)
-[![ETL Frávega](https://github.com/jlandaa/Retail-Price-Scraper/actions/workflows/etl_fravega.yml/badge.svg)](https://github.com/jlandaa/Retail-Price-Scraper/actions)
 
 * 🤖 [Sales AI Chatbot](https://jml-ventas-ai.streamlit.app/) - Text-to-SQL & Visual Analytics
   
@@ -51,7 +65,7 @@
   
   🛠️ `xgboost` `mlops` `shap` `bigquery` `explainable-ai` `streamlit`
   
-* 🛒 [Retail Price Scraper](https://github.com/jlandaa/Retail-Price-Scraper) - Automated ETL Pipeline (PySpark & Delta Lake)
+* 🛒 [Retail Price Scraper](https://github.com/jlandaa/Retail-Price-Scraper) - Automated ETL Pipeline (PySpark & Delta Lake) [![ETL Status](https://img.shields.io/github/actions/workflow/status/jlandaa/Retail-Price-Scraper/etl_fravega.yml?label=ETL%20Fr%C3%A1vega&style=for-the-badge)](https://github.com/jlandaa/Retail-Price-Scraper/actions)
   
   🛠️ `pyspark` `delta-lake` `powerbi` `web-scraping` `competitive-intelligence`
   
@@ -66,8 +80,6 @@
 
 ![Activity Graph](https://github-readme-activity-graph-phi-ten.vercel.app/graph?username=jlandaa&bg_color=FFFFFF&color=000000&line=0099FF&point=000000&hide_border=true&hide_title=true)
 
----
-![Visitas de perfil](https://hits.sh/github.com/jlandaa/hits.svg?style=flat&label=Profile%20Views&color=0078d4)
 
 
 
