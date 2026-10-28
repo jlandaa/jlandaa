@@ -1,4 +1,4 @@
-![Header](https://github.com/user-attachments/assets/556d2572-c1ee-4448-8102-439fc0e42ae8)
+![Header](./github-header-banner.png)
 
 # 💫 About Me:
 
