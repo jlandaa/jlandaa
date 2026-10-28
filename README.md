@@ -1,6 +1,6 @@
 ![Header](./github-header-banner.png)
 
-# 💫 About Me:
+### 💫 **About Me**
 
 I bridge the gap between traditional Business Intelligence and modern, AI-driven data architectures to build scalable data products.
 
@@ -16,7 +16,7 @@ I bridge the gap between traditional Business Intelligence and modern, AI-driven
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ **Tech Stack & Tools**
 
 **Data Engineering, ETL & Orchestration**
 
@@ -38,18 +38,24 @@ I bridge the gap between traditional Business Intelligence and modern, AI-driven
 
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### 🏆 Certifications & Data Governance
+---
+
+### 🏆 **Certifications & Data Governance**
 
 * [![MicroStrategy Certified](https://img.shields.io/badge/MICROSTRATEGY-CERTIFIED-D9232E?style=for-the-badge&logo=microstrategy&logoColor=white)](#) **Certified Project Architect, Administrator, Database Administrator, and ONE Professional.**
 * [![Alation Certified](https://img.shields.io/badge/ALATION-CERTIFIED-2563EB?style=for-the-badge)](#) **Certified Professional - Consultant & Seller.**
 * [![Soda Data Quality](https://img.shields.io/badge/SODA-DATA_QUALITY-22C55E?style=for-the-badge)](#) **Cloud Fundamentals.**
 
-⚡ **Current Focus**:
+---
+
+### ⚡ **Current Focus**
 
 * 🎯 **Open to:** Full-time corporate roles as a Data Engineer, Analytics Engineer, or Senior BI Developer.
 * 🚀 **Currently building:** End-to-end data products integrating advanced ETL automation (Databricks/PySpark) with enterprise BI platforms, and deploying interactive Streamlit applications using Argentine market datasets (finance & public procurement).
 
-## 🚀 Live Portfolio & Apps
+---
+
+### 🚀 **Live Portfolio & Apps**
 ![Uptime](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/jlandaa/portfolio-monitor/main/uptime.json)
 
 * 🤖 [Sales AI Chatbot](https://jml-ventas-ai.streamlit.app/) - Text-to-SQL & Visual Analytics
@@ -73,15 +79,15 @@ I bridge the gap between traditional Business Intelligence and modern, AI-driven
   🛠️ `github-actions` `dataops` `ci-cd` `monitoring` `serverless` `selenium`
 
 
-# 📊 GitHub Stats:
+---
 
-<img src="https://github-readme-stats-eight-zeta-39.vercel.app/api?username=jlandaa&show_icons=true&theme=default&count_private=true&include_all_commits=true&hide=stars,prs,issues,contribs&hide_rank=true&v=11" align="top" width="49%" /> <img src="https://github-readme-streak-stats-one-pi-50.vercel.app/?user=jlandaa&theme=default&v=103" align="top" width="49%" />
+### 📊 **GitHub Stats**
 
-![Activity Graph](https://github-readme-activity-graph-phi-ten.vercel.app/graph?username=jlandaa&bg_color=FFFFFF&color=000000&line=0099FF&point=000000&hide_border=true&hide_title=true)
-
-
-
-
-
-
-
+<div align="center">
+  <img src="https://github-readme-stats-eight-zeta-39.vercel.app/api?username=jlandaa&show_icons=true&count_private=true&include_all_commits=true&hide=stars,prs,issues,contribs&hide_rank=true&v=11" align="top" width="49%" />
+  <img src="https://github-readme-streak-stats-one-pi-50.vercel.app/?user=jlandaa&v=103" align="top" width="49%" />
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-activity-graph-phi-ten.vercel.app/graph?username=jlandaa&bg_color=FFFFFF&color=000000&line=0099FF&point=000000&hide_border=true&hide_title=true" width="100%" />
+</div>
