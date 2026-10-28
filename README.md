@@ -66,7 +66,7 @@ I bridge the gap between traditional Business Intelligence and modern, AI-driven
   
   🛠️ `data-engineering` `etl-pipeline` `python` `streamlit` `financial-analysis`
   
-* 💳 [SmartCredit ML](https://jml-smartcredit-ml.streamlit.app/) - Predictive Model
+* 💳 [Smart Credit ML](https://jml-smartcredit-ml.streamlit.app/) - Predictive Model
   
   🛠️ `xgboost` `mlops` `shap` `bigquery` `explainable-ai` `streamlit`
   
@@ -74,7 +74,7 @@ I bridge the gap between traditional Business Intelligence and modern, AI-driven
   
   🛠️ `pyspark` `delta-lake` `powerbi` `web-scraping` `competitive-intelligence`
   
-* ⚙️ [Portfolio Monitor](https://github.com/jlandaa/portfolio-monitor) - DataOps & CI/CD Automation
+* ⚙️ [Portfolio Monitor](https://github.com/jlandaa/Portfolio-Monitor) - DataOps & CI/CD Automation
   
   🛠️ `github-actions` `dataops` `ci-cd` `monitoring` `serverless` `selenium`
 
