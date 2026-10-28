@@ -1,7 +1,6 @@
-![Header](./github-header-banner.png)
+![Header](https://github.com/user-attachments/assets/556d2572-c1ee-4448-8102-439fc0e42ae8)
 
 # 💫 About Me:
-🚀 **Data & Analytics Engineer | Certified BI Consultant**
 
 I bridge the gap between traditional Business Intelligence and modern, AI-driven data architectures to build scalable data products.
 
@@ -12,7 +11,7 @@ I bridge the gap between traditional Business Intelligence and modern, AI-driven
 <div align="left">
   <a href="https://linkedin.com/in/juan-manuel-landa"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://juan-manuel-landa.netlify.app"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a>
-  <a href="mailto:tu-mail-enmascarado@duck.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:juanmanuel93@duck.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </div>
 
 ---
