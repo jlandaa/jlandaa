@@ -53,6 +53,9 @@ I bridge the gap between traditional Business Intelligence and modern, AI-driven
 * 🎯 **Open to:** Full-time corporate roles as a Data Engineer, Analytics Engineer, or Senior BI Developer.
 * 🚀 **Currently building:** End-to-end data products integrating advanced ETL automation (Databricks/PySpark) with enterprise BI platforms, and deploying interactive Streamlit applications using Argentine market datasets (finance & public procurement).
 
+[![End-to-End AI, Lakehouse & BI Architecture](./data_architecture.gif)](https://juan-manuel-landa.netlify.app)
+
+
 ---
 
 ### 🚀 **Live Portfolio & Apps**
