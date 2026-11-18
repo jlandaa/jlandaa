@@ -42,9 +42,9 @@ I bridge the gap between traditional Business Intelligence and modern, AI-driven
 
 ### 🏆 **Certifications & Data Governance**
 
-* <img src="https://img.shields.io/badge/MICROSTRATEGY-CERTIFIED-D9232E?style=for-the-badge&logo=microstrategy&logoColor=white" align="center" alt="MicroStrategy Certified" /> &nbsp;**Project Architect, Administrator, Database Administrator, and ONE Professional.**
-* <img src="https://img.shields.io/badge/ALATION-CERTIFIED-2563EB?style=for-the-badge" align="center" alt="Alation Certified" /> &nbsp;**Professional - Consultant & Seller.**
-* <img src="https://img.shields.io/badge/SODA-DATA_QUALITY-22C55E?style=for-the-badge" align="center" alt="Soda Data Quality" /> &nbsp;**Cloud Fundamentals.**
+* <img src="https://img.shields.io/badge/MICROSTRATEGY-CERTIFIED-D9232E?style=for-the-badge&labelColor=1E293B&logo=microstrategy&logoColor=white" align="center" alt="MicroStrategy Certified" /> &nbsp;**Project Architect, Administrator, Database Administrator, and ONE Professional.**
+* <img src="https://img.shields.io/badge/ALATION-CERTIFIED-2563EB?style=for-the-badge&labelColor=1E293B" align="center" alt="Alation Certified" /> &nbsp;**Professional - Consultant & Seller.**
+* <img src="https://img.shields.io/badge/SODA-DATA_QUALITY-0EA5E9?style=for-the-badge&labelColor=1E293B" align="center" alt="Soda Data Quality" /> &nbsp;**Cloud Fundamentals.**
 
 ---
 
@@ -64,7 +64,7 @@ I bridge the gap between traditional Business Intelligence and modern, AI-driven
 
 ### 🚀 **Live Portfolio & Apps**
 <p align="left">
-  <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/jlandaa/portfolio-monitor/main/uptime.json" alt="Streamlit Apps Status" />
+  <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/jlandaa/portfolio-monitor/main/uptime.json&style=for-the-badge&labelColor=1E293B" alt="Streamlit Apps Status" />
 </p>
 
 * 🤖 [Sales AI Chatbot](https://jml-ventas-ai.streamlit.app/) - Text-to-SQL & Visual Analytics
@@ -79,7 +79,7 @@ I bridge the gap between traditional Business Intelligence and modern, AI-driven
   
   🛠️ `xgboost` `mlops` `shap` `bigquery` `explainable-ai` `streamlit`
   
-* 🛒 [Retail Price Scraper](https://github.com/jlandaa/Retail-Price-Scraper) - Automated ETL Pipeline (PySpark & Delta Lake) &nbsp;<a href="https://github.com/jlandaa/Retail-Price-Scraper/actions"><img src="https://img.shields.io/github/actions/workflow/status/jlandaa/Retail-Price-Scraper/etl_fravega.yml?label=ETL%20Fr%C3%A1vega&style=for-the-badge" align="center" alt="ETL Status" /></a>
+* 🛒 [Retail Price Scraper](https://github.com/jlandaa/Retail-Price-Scraper) - Automated ETL Pipeline (PySpark & Delta Lake) &nbsp;<a href="https://github.com/jlandaa/Retail-Price-Scraper/actions"><img src="https://img.shields.io/github/actions/workflow/status/jlandaa/Retail-Price-Scraper/etl_fravega.yml?label=ETL%20Fr%C3%A1vega&style=for-the-badge&labelColor=1E293B" align="center" alt="ETL Status" /></a>
   
   🛠️ `pyspark` `delta-lake` `powerbi` `web-scraping` `competitive-intelligence`
   
