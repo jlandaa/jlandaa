@@ -5,7 +5,7 @@
 I bridge the gap between traditional Business Intelligence and modern, AI-driven data architectures to build scalable data products.
 
 * 🧠 **Focus:** Designing robust ETL pipelines, deploying predictive models (MLOps), and automating enterprise reporting.
-* ⚙️ **Impact:** Proven track record of reducing manual data errors by up **60%** and improving analytical response times by **50%** in corporate environments.
+* ⚙️ **Impact:** Proven track record of reducing manual data errors by up to **60%** and improving analytical response times by **50%** in corporate environments.
 * 🎓 **Background:** Computer Engineer (UADE) with advanced certifications in Data Governance, Quality, and Analytics.
 
 <div align="left">
@@ -42,13 +42,13 @@ I bridge the gap between traditional Business Intelligence and modern, AI-driven
 
 ### 🏆 **Certifications & Data Governance**
 
-* [![MicroStrategy Certified](https://img.shields.io/badge/MICROSTRATEGY-CERTIFIED-D9232E?style=for-the-badge&logo=microstrategy&logoColor=white)](#) **Certified Project Architect, Administrator, Database Administrator, and ONE Professional.**
-* [![Alation Certified](https://img.shields.io/badge/ALATION-CERTIFIED-2563EB?style=for-the-badge)](#) **Certified Professional - Consultant & Seller.**
-* [![Soda Data Quality](https://img.shields.io/badge/SODA-DATA_QUALITY-22C55E?style=for-the-badge)](#) **Cloud Fundamentals.**
+* ![MicroStrategy Certified](https://img.shields.io/badge/MICROSTRATEGY-CERTIFIED-D9232E?style=for-the-badge&logo=microstrategy&logoColor=white) **Project Architect, Administrator, Database Administrator, and ONE Professional.**
+* ![Alation Certified](https://img.shields.io/badge/ALATION-CERTIFIED-2563EB?style=for-the-badge) **Professional - Consultant & Seller.**
+* ![Soda Data Quality](https://img.shields.io/badge/SODA-DATA_QUALITY-22C55E?style=for-the-badge) **Cloud Fundamentals.**
 
 ---
 
-### ⚡ Current Focus
+### ⚡ **Current Focus**
 
 * 🎯 **Open to:** Full-time corporate roles as a **Data Engineer**, **Analytics Engineer**, or **BI Developer / Consultant**.
 * 🚀 **Currently building:** End-to-end data products integrating Lakehouse ETL automation (`Databricks`, `PySpark` & `Delta Lake`) with enterprise BI platforms, alongside interactive `Streamlit` & AI applications powered by real-world market datasets (finance, retail intelligence & credit risk).
