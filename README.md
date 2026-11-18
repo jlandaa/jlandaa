@@ -55,7 +55,7 @@ I bridge the gap between traditional Business Intelligence and modern, AI-driven
 
 ---
 
-### 🏗️ **End-to-End Architecture**
+### 🏗️ **Data & AI Architecture**
 
 [![End-to-End AI, Lakehouse & BI Architecture](./data_architecture.gif)](https://juan-manuel-landa.netlify.app)
 
