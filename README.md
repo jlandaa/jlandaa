@@ -20,31 +20,31 @@ I bridge the gap between traditional Business Intelligence and modern, AI-driven
 
 **Data Engineering, ETL & Orchestration**
 
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white) ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white) ![Delta Lake](https://img.shields.io/badge/Delta_Lake-00AEEF?style=for-the-badge&logo=databricks&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white) ![SSIS](https://img.shields.io/badge/SSIS-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-1E293B?style=for-the-badge&logo=databricks&logoColor=FF3621) ![PySpark](https://img.shields.io/badge/PySpark-1E293B?style=for-the-badge&logo=apache-spark&logoColor=E25A1C) ![Delta Lake](https://img.shields.io/badge/Delta_Lake-1E293B?style=for-the-badge&logo=databricks&logoColor=00AEEF) ![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-1E293B?style=for-the-badge&logo=apache-airflow&logoColor=017CEE) ![SSIS](https://img.shields.io/badge/SSIS-1E293B?style=for-the-badge&logo=microsoft-sql-server&logoColor=CC292B)
 
 **Business Intelligence & Analytics**
 
-![MicroStrategy](https://img.shields.io/badge/MicroStrategy-D9232E?style=for-the-badge&logo=microstrategy&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) ![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)
+![MicroStrategy](https://img.shields.io/badge/MicroStrategy-1E293B?style=for-the-badge&logo=microstrategy&logoColor=D9232E) ![Power BI](https://img.shields.io/badge/Power_BI-1E293B?style=for-the-badge&logo=powerbi&logoColor=F2C811) ![Tableau](https://img.shields.io/badge/Tableau-1E293B?style=for-the-badge&logo=tableau&logoColor=E97627) ![Looker](https://img.shields.io/badge/Looker-1E293B?style=for-the-badge&logo=looker&logoColor=4285F4)
 
 **Databases & Cloud**
 
-![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=google-bigquery&logoColor=white) ![Amazon Redshift](https://img.shields.io/badge/Amazon_Redshift-8C4FFF?style=for-the-badge&logo=amazonredshift&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GCP-1E293B?style=for-the-badge&logo=google-cloud&logoColor=4285F4) ![BigQuery](https://img.shields.io/badge/BigQuery-1E293B?style=for-the-badge&logo=google-bigquery&logoColor=669DF6) ![Amazon Redshift](https://img.shields.io/badge/Amazon_Redshift-1E293B?style=for-the-badge&logo=amazonredshift&logoColor=8C4FFF) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1E293B?style=for-the-badge&logo=postgresql&logoColor=60A5FA) ![SQL Server](https://img.shields.io/badge/SQL_Server-1E293B?style=for-the-badge&logo=microsoft-sql-server&logoColor=CC292B)
 
 **Programming, Data Science & Automation**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-172434?style=for-the-badge&logo=xgboost&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Python](https://img.shields.io/badge/Python-1E293B?style=for-the-badge&logo=python&logoColor=38BDF8) ![XGBoost](https://img.shields.io/badge/XGBoost-1E293B?style=for-the-badge&logo=xgboost&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-1E293B?style=for-the-badge&logo=selenium&logoColor=43B02A)
 
 **CI/CD & DevOps**
 
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-1E293B?style=for-the-badge&logo=github-actions&logoColor=2088FF) ![Docker](https://img.shields.io/badge/Docker-1E293B?style=for-the-badge&logo=docker&logoColor=2496ED)
 
 ---
 
 ### 🏆 **Certifications & Data Governance**
 
-* ![MicroStrategy Certified](https://img.shields.io/badge/MICROSTRATEGY-CERTIFIED-D9232E?style=for-the-badge&logo=microstrategy&logoColor=white) **Project Architect, Administrator, Database Administrator, and ONE Professional.**
-* ![Alation Certified](https://img.shields.io/badge/ALATION-CERTIFIED-2563EB?style=for-the-badge) **Professional - Consultant & Seller.**
-* ![Soda Data Quality](https://img.shields.io/badge/SODA-DATA_QUALITY-22C55E?style=for-the-badge) **Cloud Fundamentals.**
+* <img src="https://img.shields.io/badge/MICROSTRATEGY-CERTIFIED-D9232E?style=for-the-badge&logo=microstrategy&logoColor=white" align="center" alt="MicroStrategy Certified" /> &nbsp;**Project Architect, Administrator, Database Administrator, and ONE Professional.**
+* <img src="https://img.shields.io/badge/ALATION-CERTIFIED-2563EB?style=for-the-badge" align="center" alt="Alation Certified" /> &nbsp;**Professional - Consultant & Seller.**
+* <img src="https://img.shields.io/badge/SODA-DATA_QUALITY-22C55E?style=for-the-badge" align="center" alt="Soda Data Quality" /> &nbsp;**Cloud Fundamentals.**
 
 ---
 
@@ -53,13 +53,19 @@ I bridge the gap between traditional Business Intelligence and modern, AI-driven
 * 🎯 **Open to:** Full-time corporate roles as a **Data Engineer**, **Analytics Engineer**, or **BI Developer / Consultant**.
 * 🚀 **Currently building:** End-to-end data products integrating Lakehouse ETL automation (`Databricks`, `PySpark` & `Delta Lake`) with enterprise BI platforms, alongside interactive `Streamlit` & AI applications powered by real-world market datasets (finance, retail intelligence & credit risk).
 
+---
+
+### 🏗️ **End-to-End Architecture**
+
 [![End-to-End AI, Lakehouse & BI Architecture](./data_architecture.gif)](https://juan-manuel-landa.netlify.app)
 
 
 ---
 
 ### 🚀 **Live Portfolio & Apps**
-![Uptime](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/jlandaa/portfolio-monitor/main/uptime.json)
+<p align="left">
+  <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/jlandaa/portfolio-monitor/main/uptime.json" alt="Streamlit Apps Status" />
+</p>
 
 * 🤖 [Sales AI Chatbot](https://jml-ventas-ai.streamlit.app/) - Text-to-SQL & Visual Analytics
   
@@ -73,7 +79,7 @@ I bridge the gap between traditional Business Intelligence and modern, AI-driven
   
   🛠️ `xgboost` `mlops` `shap` `bigquery` `explainable-ai` `streamlit`
   
-* 🛒 [Retail Price Scraper](https://github.com/jlandaa/Retail-Price-Scraper) - Automated ETL Pipeline (PySpark & Delta Lake) [![ETL Status](https://img.shields.io/github/actions/workflow/status/jlandaa/Retail-Price-Scraper/etl_fravega.yml?label=ETL%20Fr%C3%A1vega&style=for-the-badge)](https://github.com/jlandaa/Retail-Price-Scraper/actions)
+* 🛒 [Retail Price Scraper](https://github.com/jlandaa/Retail-Price-Scraper) - Automated ETL Pipeline (PySpark & Delta Lake) &nbsp;<a href="https://github.com/jlandaa/Retail-Price-Scraper/actions"><img src="https://img.shields.io/github/actions/workflow/status/jlandaa/Retail-Price-Scraper/etl_fravega.yml?label=ETL%20Fr%C3%A1vega&style=for-the-badge" align="center" alt="ETL Status" /></a>
   
   🛠️ `pyspark` `delta-lake` `powerbi` `web-scraping` `competitive-intelligence`
   
