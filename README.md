@@ -14,6 +14,39 @@ I bridge the gap between traditional Business Intelligence and modern, AI-driven
 
 ---
 
+### 🚀 **Live Portfolio & Apps**
+<p align="left">
+  <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/jlandaa/portfolio-monitor/main/uptime.json&style=for-the-badge&labelColor=1E293B" alt="Streamlit Apps Status" />
+</p>
+
+- 🤖 [Sales AI Chatbot](https://jml-ventas-ai.streamlit.app/) - Text-to-SQL & Visual Analytics
+  
+  🛠️ `langchain` `bigquery` `docker` `gcp` `streamlit` `text-to-sql`
+  
+- 📈 [ADR Dashboard](https://jml-dashboard-adr.streamlit.app/) - Argentine Market Analysis
+  
+  🛠️ `data-engineering` `etl-pipeline` `python` `streamlit` `financial-analysis`
+  
+- 💳 [Smart Credit ML](https://jml-smartcredit-ml.streamlit.app/) - Predictive Model
+  
+  🛠️ `xgboost` `machine-learning` `shap` `bigquery` `explainable-ai` `streamlit`
+  
+- 🛒 [Retail Price Scraper](https://github.com/jlandaa/Retail-Price-Scraper) - Automated ETL Pipeline (PySpark & Delta Lake) &nbsp;<a href="https://github.com/jlandaa/Retail-Price-Scraper/actions"><img src="https://img.shields.io/github/actions/workflow/status/jlandaa/Retail-Price-Scraper/etl_fravega.yml?label=ETL%20Fr%C3%A1vega&style=for-the-badge&labelColor=1E293B" align="center" alt="ETL Status" /></a>
+  
+  🛠️ `pyspark` `delta-lake` `powerbi` `web-scraping` `competitive-intelligence`
+  
+- ⚙️ [Portfolio Monitor](https://github.com/jlandaa/Portfolio-Monitor) - DataOps & CI/CD Automation
+  
+  🛠️ `github-actions` `dataops` `ci-cd` `monitoring` `serverless` `selenium`
+
+---
+
+### 🏗️ **Data & AI Architecture**
+
+[![End-to-End AI, Lakehouse & BI Architecture](./data_architecture.gif)](https://juan-manuel-landa.netlify.app)
+
+---
+
 ### 🛠️ **Tech Stack & Tools**
 
 **Data Engineering, ETL & Orchestration**
@@ -50,39 +83,6 @@ I bridge the gap between traditional Business Intelligence and modern, AI-driven
 
 - 🎯 **Open to:** Full-time corporate roles as a **Data Engineer**, **Analytics Engineer**, or **BI Developer / Consultant**.
 - 🚀 **Currently building:** End-to-end data products integrating Lakehouse ETL automation (`Databricks`, `PySpark` & `Delta Lake`) with enterprise BI platforms, alongside interactive `Streamlit` & AI applications powered by real-world market datasets (finance, retail intelligence & credit risk).
-
----
-
-### 🏗️ **Data & AI Architecture**
-
-[![End-to-End AI, Lakehouse & BI Architecture](./data_architecture.gif)](https://juan-manuel-landa.netlify.app)
-
----
-
-### 🚀 **Live Portfolio & Apps**
-<p align="left">
-  <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/jlandaa/portfolio-monitor/main/uptime.json&style=for-the-badge&labelColor=1E293B" alt="Streamlit Apps Status" />
-</p>
-
-- 🤖 [Sales AI Chatbot](https://jml-ventas-ai.streamlit.app/) - Text-to-SQL & Visual Analytics
-  
-  🛠️ `langchain` `bigquery` `docker` `gcp` `streamlit` `text-to-sql`
-  
-- 📈 [ADR Dashboard](https://jml-dashboard-adr.streamlit.app/) - Argentine Market Analysis
-  
-  🛠️ `data-engineering` `etl-pipeline` `python` `streamlit` `financial-analysis`
-  
-- 💳 [Smart Credit ML](https://jml-smartcredit-ml.streamlit.app/) - Predictive Model
-  
-  🛠️ `xgboost` `machine-learning` `shap` `bigquery` `explainable-ai` `streamlit`
-  
-- 🛒 [Retail Price Scraper](https://github.com/jlandaa/Retail-Price-Scraper) - Automated ETL Pipeline (PySpark & Delta Lake) &nbsp;<a href="https://github.com/jlandaa/Retail-Price-Scraper/actions"><img src="https://img.shields.io/github/actions/workflow/status/jlandaa/Retail-Price-Scraper/etl_fravega.yml?label=ETL%20Fr%C3%A1vega&style=for-the-badge&labelColor=1E293B" align="center" alt="ETL Status" /></a>
-  
-  🛠️ `pyspark` `delta-lake` `powerbi` `web-scraping` `competitive-intelligence`
-  
-- ⚙️ [Portfolio Monitor](https://github.com/jlandaa/Portfolio-Monitor) - DataOps & CI/CD Automation
-  
-  🛠️ `github-actions` `dataops` `ci-cd` `monitoring` `serverless` `selenium`
 
 ---
 
