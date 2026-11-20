@@ -10,7 +10,6 @@ I bridge the gap between traditional Business Intelligence and modern, AI-driven
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-juan--manuel--landa.netlify.app-0A192F?style=flat-square&logo=netlify&logoColor=white)](https://juan-manuel-landa.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan%20Manuel%20Landa-0A66C2?style=flat-square)](https://linkedin.com/in/juan-manuel-landa)
-[![JML Data & AI](https://img.shields.io/badge/Practice-JML%20Data%20%26%20AI-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JML-Data-AI)
 [![Contact](https://img.shields.io/badge/Contact-Email-0A192F?style=flat-square&logo=gmail&logoColor=white)](mailto:juanmanuel93@duck.com)
 
 ---
