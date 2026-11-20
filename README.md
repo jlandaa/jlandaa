@@ -15,29 +15,19 @@ I bridge the gap between traditional Business Intelligence and modern, AI-driven
 ---
 
 ### 🚀 **Live Portfolio & Apps**
+
 <p align="left">
-  <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/jlandaa/portfolio-monitor/main/uptime.json&style=for-the-badge&labelColor=1E293B" alt="Streamlit Apps Status" />
+  <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/jlandaa/portfolio-monitor/main/uptime.json&style=flat-square&labelColor=1E293B" alt="Streamlit Apps Status" />
+  <a href="https://github.com/jlandaa/Retail-Price-Scraper/actions"><img src="https://img.shields.io/github/actions/workflow/status/jlandaa/Retail-Price-Scraper/etl_fravega.yml?label=ETL%20Fr%C3%A1vega&style=flat-square&labelColor=1E293B" alt="ETL Status" /></a>
 </p>
 
-- 🤖 [Sales AI Chatbot](https://jml-ventas-ai.streamlit.app/) - Text-to-SQL & Visual Analytics
-  
-  🛠️ `langchain` `bigquery` `docker` `gcp` `streamlit` `text-to-sql`
-  
-- 📈 [ADR Dashboard](https://jml-dashboard-adr.streamlit.app/) - Argentine Market Analysis
-  
-  🛠️ `data-engineering` `etl-pipeline` `python` `streamlit` `financial-analysis`
-  
-- 💳 [Smart Credit ML](https://jml-smartcredit-ml.streamlit.app/) - Predictive Model
-  
-  🛠️ `xgboost` `machine-learning` `shap` `bigquery` `explainable-ai` `streamlit`
-  
-- 🛒 [Retail Price Scraper](https://github.com/jlandaa/Retail-Price-Scraper) - Automated ETL Pipeline (PySpark & Delta Lake) &nbsp;<a href="https://github.com/jlandaa/Retail-Price-Scraper/actions"><img src="https://img.shields.io/github/actions/workflow/status/jlandaa/Retail-Price-Scraper/etl_fravega.yml?label=ETL%20Fr%C3%A1vega&style=for-the-badge&labelColor=1E293B" align="center" alt="ETL Status" /></a>
-  
-  🛠️ `pyspark` `delta-lake` `powerbi` `web-scraping` `competitive-intelligence`
-  
-- ⚙️ [Portfolio Monitor](https://github.com/jlandaa/Portfolio-Monitor) - DataOps & CI/CD Automation
-  
-  🛠️ `github-actions` `dataops` `ci-cd` `monitoring` `serverless` `selenium`
+| Solution | Focus & Stack | Links |
+| :--- | :--- | :--- |
+| 🤖 **Sales AI Chatbot** | Text-to-SQL & visual analytics (`LangChain`, `BigQuery`, `Docker`, `GCP`, `Streamlit`) | [Live App](https://jml-ventas-ai.streamlit.app/) · [Code](https://github.com/jlandaa/Sales-AI-Chatbot) |
+| 📈 **ADR Dashboard** | Argentine market ETL & financial analysis (`Python`, `SQLAlchemy`, `Plotly`, `Streamlit`) | [Live App](https://jml-dashboard-adr.streamlit.app/) · [Code](https://github.com/jlandaa/ETL_ADR_Argentina) |
+| 💳 **Smart Credit ML** | Explainable credit risk model (`XGBoost`, `SHAP`, `BigQuery`, `Streamlit`) | [Live App](https://jml-smartcredit-ml.streamlit.app/) · [Code](https://github.com/jlandaa/Smart-Credit-ML) |
+| 🛒 **Retail Price Scraper** | Automated competitive pricing ETL (`Databricks`, `PySpark`, `Delta Lake`, `Power BI`) | [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzFhNWJmMzQtNTllYS00ODNkLTlkOTYtMDQyNmMzNzRiYjQ4IiwidCI6IjZjYmMyOTllLWIxZDUtNDJjZi1hMWRjLTgwNjZmMTdiN2QwNyIsImMiOjR9) · [Code](https://github.com/jlandaa/Retail-Price-Scraper) |
+| ⚙️ **Portfolio Monitor** | Serverless DataOps & CI/CD automation (`GitHub Actions`, `Python`, `Selenium`) | [Actions](https://github.com/jlandaa/Portfolio-Monitor/actions) · [Code](https://github.com/jlandaa/Portfolio-Monitor) |
 
 ---
 
