@@ -4,15 +4,14 @@
 
 I bridge the gap between traditional Business Intelligence and modern, AI-driven data architectures to build scalable data products.
 
-* 🧠 **Focus:** Designing robust ETL pipelines, deploying predictive models (MLOps), and automating enterprise reporting.
-* ⚙️ **Impact:** Proven track record of reducing manual data errors by up to **60%** and improving analytical response times by **50%** in corporate environments.
-* 🎓 **Background:** Computer Engineer (UADE) with advanced certifications in Data Governance, Quality, and Analytics.
+- 🧠 **Focus:** Designing robust ETL pipelines, deploying predictive analytics apps, and automating enterprise reporting.
+- ⚙️ **Impact:** Proven track record of reducing manual data errors by up to **60%** and improving analytical response times by **50%** in corporate environments through automated ETL workflows, SQL optimization, and data quality controls.
+- 🎓 **Background:** Computer Engineer (UADE) with advanced certifications in Data Governance, Quality, and Analytics.
 
-<div align="left">
-  <a href="https://linkedin.com/in/juan-manuel-landa"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://juan-manuel-landa.netlify.app"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a>
-  <a href="mailto:juanmanuel93@duck.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-</div>
+[![Portfolio](https://img.shields.io/badge/Portfolio-juan--manuel--landa.netlify.app-0A192F?style=flat-square&logo=netlify&logoColor=white)](https://juan-manuel-landa.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan%20Manuel%20Landa-0A66C2?style=flat-square)](https://linkedin.com/in/juan-manuel-landa)
+[![JML Data & AI](https://img.shields.io/badge/Practice-JML%20Data%20%26%20AI-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JML-Data-AI)
+[![Contact](https://img.shields.io/badge/Contact-Email-0A192F?style=flat-square&logo=gmail&logoColor=white)](mailto:juanmanuel93@duck.com)
 
 ---
 
@@ -42,23 +41,22 @@ I bridge the gap between traditional Business Intelligence and modern, AI-driven
 
 ### 🏆 **Certifications & Data Governance**
 
-* <img src="https://img.shields.io/badge/MICROSTRATEGY-CERTIFIED-D9232E?style=for-the-badge&labelColor=1E293B&logo=microstrategy&logoColor=white" align="center" alt="MicroStrategy Certified" /> &nbsp;**Project Architect, Administrator, Database Administrator, and ONE Professional.**
-* <img src="https://img.shields.io/badge/ALATION-CERTIFIED-2563EB?style=for-the-badge&labelColor=1E293B" align="center" alt="Alation Certified" /> &nbsp;**Professional - Consultant & Seller.**
-* <img src="https://img.shields.io/badge/SODA-DATA_QUALITY-0EA5E9?style=for-the-badge&labelColor=1E293B" align="center" alt="Soda Data Quality" /> &nbsp;**Cloud Fundamentals.**
+- <img src="https://img.shields.io/badge/MICROSTRATEGY-CERTIFIED-D9232E?style=for-the-badge&labelColor=1E293B&logo=microstrategy&logoColor=white" align="center" alt="MicroStrategy Certified" /> &nbsp;**Project Architect, Administrator, Database Administrator, and ONE Professional.**
+- <img src="https://img.shields.io/badge/ALATION-CERTIFIED-2563EB?style=for-the-badge&labelColor=1E293B" align="center" alt="Alation Certified" /> &nbsp;**Professional - Consultant & Seller.**
+- <img src="https://img.shields.io/badge/SODA-DATA_QUALITY-0EA5E9?style=for-the-badge&labelColor=1E293B" align="center" alt="Soda Data Quality" /> &nbsp;**Cloud Fundamentals.**
 
 ---
 
 ### ⚡ **Current Focus**
 
-* 🎯 **Open to:** Full-time corporate roles as a **Data Engineer**, **Analytics Engineer**, or **BI Developer / Consultant**.
-* 🚀 **Currently building:** End-to-end data products integrating Lakehouse ETL automation (`Databricks`, `PySpark` & `Delta Lake`) with enterprise BI platforms, alongside interactive `Streamlit` & AI applications powered by real-world market datasets (finance, retail intelligence & credit risk).
+- 🎯 **Open to:** Full-time corporate roles as a **Data Engineer**, **Analytics Engineer**, or **BI Developer / Consultant**.
+- 🚀 **Currently building:** End-to-end data products integrating Lakehouse ETL automation (`Databricks`, `PySpark` & `Delta Lake`) with enterprise BI platforms, alongside interactive `Streamlit` & AI applications powered by real-world market datasets (finance, retail intelligence & credit risk).
 
 ---
 
 ### 🏗️ **Data & AI Architecture**
 
 [![End-to-End AI, Lakehouse & BI Architecture](./data_architecture.gif)](https://juan-manuel-landa.netlify.app)
-
 
 ---
 
@@ -67,26 +65,25 @@ I bridge the gap between traditional Business Intelligence and modern, AI-driven
   <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/jlandaa/portfolio-monitor/main/uptime.json&style=for-the-badge&labelColor=1E293B" alt="Streamlit Apps Status" />
 </p>
 
-* 🤖 [Sales AI Chatbot](https://jml-ventas-ai.streamlit.app/) - Text-to-SQL & Visual Analytics
+- 🤖 [Sales AI Chatbot](https://jml-ventas-ai.streamlit.app/) - Text-to-SQL & Visual Analytics
   
   🛠️ `langchain` `bigquery` `docker` `gcp` `streamlit` `text-to-sql`
   
-* 📈 [ADR Dashboard](https://jml-dashboard-adr.streamlit.app/) - Argentine Market Analysis
+- 📈 [ADR Dashboard](https://jml-dashboard-adr.streamlit.app/) - Argentine Market Analysis
   
   🛠️ `data-engineering` `etl-pipeline` `python` `streamlit` `financial-analysis`
   
-* 💳 [Smart Credit ML](https://jml-smartcredit-ml.streamlit.app/) - Predictive Model
+- 💳 [Smart Credit ML](https://jml-smartcredit-ml.streamlit.app/) - Predictive Model
   
-  🛠️ `xgboost` `mlops` `shap` `bigquery` `explainable-ai` `streamlit`
+  🛠️ `xgboost` `machine-learning` `shap` `bigquery` `explainable-ai` `streamlit`
   
-* 🛒 [Retail Price Scraper](https://github.com/jlandaa/Retail-Price-Scraper) - Automated ETL Pipeline (PySpark & Delta Lake) &nbsp;<a href="https://github.com/jlandaa/Retail-Price-Scraper/actions"><img src="https://img.shields.io/github/actions/workflow/status/jlandaa/Retail-Price-Scraper/etl_fravega.yml?label=ETL%20Fr%C3%A1vega&style=for-the-badge&labelColor=1E293B" align="center" alt="ETL Status" /></a>
+- 🛒 [Retail Price Scraper](https://github.com/jlandaa/Retail-Price-Scraper) - Automated ETL Pipeline (PySpark & Delta Lake) &nbsp;<a href="https://github.com/jlandaa/Retail-Price-Scraper/actions"><img src="https://img.shields.io/github/actions/workflow/status/jlandaa/Retail-Price-Scraper/etl_fravega.yml?label=ETL%20Fr%C3%A1vega&style=for-the-badge&labelColor=1E293B" align="center" alt="ETL Status" /></a>
   
   🛠️ `pyspark` `delta-lake` `powerbi` `web-scraping` `competitive-intelligence`
   
-* ⚙️ [Portfolio Monitor](https://github.com/jlandaa/Portfolio-Monitor) - DataOps & CI/CD Automation
+- ⚙️ [Portfolio Monitor](https://github.com/jlandaa/Portfolio-Monitor) - DataOps & CI/CD Automation
   
   🛠️ `github-actions` `dataops` `ci-cd` `monitoring` `serverless` `selenium`
-
 
 ---
 
