@@ -8,9 +8,9 @@ I bridge the gap between traditional Business Intelligence and modern, AI-driven
 - ⚙️ **Impact:** Proven track record of reducing manual data errors by up to **60%** and improving analytical response times by **50%** in corporate environments through automated ETL workflows, SQL optimization, and data quality controls.
 - 🎓 **Background:** Computer Engineer (UADE) with advanced certifications in Data Governance, Quality, and Analytics.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-juan--manuel--landa.netlify.app-0A192F?style=flat-square&logo=netlify&logoColor=white)](https://juan-manuel-landa.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-juan--manuel--landa.netlify.app-1E293B?style=flat-square&logo=netlify&logoColor=white)](https://juan-manuel-landa.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan%20Manuel%20Landa-0A66C2?style=flat-square)](https://linkedin.com/in/juan-manuel-landa)
-[![Contact](https://img.shields.io/badge/Contact-Email-0A192F?style=flat-square&logo=gmail&logoColor=white)](mailto:juanmanuel93@duck.com)
+[![Contact](https://img.shields.io/badge/Contact-Email-1E293B?style=flat-square&logo=gmail&logoColor=white)](mailto:juanmanuel93@duck.com)
 
 ---
 
@@ -45,15 +45,15 @@ I bridge the gap between traditional Business Intelligence and modern, AI-driven
 
 **Business Intelligence & Analytics**
 
-![MicroStrategy](https://img.shields.io/badge/MicroStrategy-1E293B?style=for-the-badge&logo=microstrategy&logoColor=D9232E) ![Power BI](https://img.shields.io/badge/Power_BI-1E293B?style=for-the-badge&logo=powerbi&logoColor=F2C811) ![Tableau](https://img.shields.io/badge/Tableau-1E293B?style=for-the-badge&logo=tableau&logoColor=E97627) ![Looker](https://img.shields.io/badge/Looker-1E293B?style=for-the-badge&logo=looker&logoColor=4285F4)
+![MicroStrategy](https://img.shields.io/badge/MicroStrategy-1E293B?style=for-the-badge&logo=microstrategy&logoColor=D9232E) ![Power BI](https://img.shields.io/badge/Power_BI-1E293B?style=for-the-badge&logo=powerbi&logoColor=F2C811) ![Tableau](https://img.shields.io/badge/Tableau-1E293B?style=for-the-badge&logo=tableau&logoColor=E97627) ![Looker](https://img.shields.io/badge/Looker-1E293B?style=for-the-badge&logo=looker&logoColor=4285F4) ![Streamlit](https://img.shields.io/badge/Streamlit-1E293B?style=for-the-badge&logo=streamlit&logoColor=FF4B4B)
 
 **Databases & Cloud**
 
 ![Google Cloud](https://img.shields.io/badge/GCP-1E293B?style=for-the-badge&logo=google-cloud&logoColor=4285F4) ![BigQuery](https://img.shields.io/badge/BigQuery-1E293B?style=for-the-badge&logo=google-bigquery&logoColor=669DF6) ![Amazon Redshift](https://img.shields.io/badge/Amazon_Redshift-1E293B?style=for-the-badge&logo=amazonredshift&logoColor=8C4FFF) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1E293B?style=for-the-badge&logo=postgresql&logoColor=60A5FA) ![SQL Server](https://img.shields.io/badge/SQL_Server-1E293B?style=for-the-badge&logo=microsoft-sql-server&logoColor=CC292B)
 
-**Programming, Data Science & Automation**
+**Programming, AI & Data Science**
 
-![Python](https://img.shields.io/badge/Python-1E293B?style=for-the-badge&logo=python&logoColor=38BDF8) ![XGBoost](https://img.shields.io/badge/XGBoost-1E293B?style=for-the-badge&logo=xgboost&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-1E293B?style=for-the-badge&logo=selenium&logoColor=43B02A)
+![Python](https://img.shields.io/badge/Python-1E293B?style=for-the-badge&logo=python&logoColor=38BDF8) ![SQL](https://img.shields.io/badge/SQL-1E293B?style=for-the-badge) ![LangChain](https://img.shields.io/badge/LangChain-1E293B?style=for-the-badge&logo=langchain&logoColor=34D399) ![XGBoost](https://img.shields.io/badge/XGBoost-1E293B?style=for-the-badge&logo=xgboost&logoColor=white) ![SHAP](https://img.shields.io/badge/SHAP-1E293B?style=for-the-badge) ![Selenium](https://img.shields.io/badge/Selenium-1E293B?style=for-the-badge&logo=selenium&logoColor=43B02A)
 
 **CI/CD & DevOps**
 
