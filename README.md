@@ -76,13 +76,20 @@ I bridge the gap between traditional Business Intelligence and modern, AI-driven
 
 ---
 
-### 📊 **GitHub Stats**
+### 📊 **GitHub Activity**
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-zeta-39.vercel.app/api?username=jlandaa&show_icons=true&count_private=true&include_all_commits=true&hide=stars,prs,issues,contribs&hide_rank=true&v=11" align="top" width="49%" />
-  <img src="https://github-readme-streak-stats-one-pi-50.vercel.app/?user=jlandaa&v=103" align="top" width="49%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-one-pi-50.vercel.app/?user=jlandaa&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakNum=E2E8F0&sideNums=E2E8F0&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=94A3B8&hide_border=true&v=104" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-one-pi-50.vercel.app/?user=jlandaa&background=FFFFFF&ring=0A66C2&fire=0A66C2&currStreakNum=0A192F&sideNums=0A192F&currStreakLabel=0A66C2&sideLabels=475569&dates=64748B&hide_border=true&v=104" />
+    <img alt="GitHub Streak" src="https://github-readme-streak-stats-one-pi-50.vercel.app/?user=jlandaa&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakNum=E2E8F0&sideNums=E2E8F0&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=94A3B8&hide_border=true&v=104" width="60%" />
+  </picture>
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-activity-graph-phi-ten.vercel.app/graph?username=jlandaa&bg_color=FFFFFF&color=000000&line=0099FF&point=000000&hide_border=true&hide_title=true" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph-phi-ten.vercel.app/graph?username=jlandaa&bg_color=0D1117&color=94A3B8&line=38BDF8&point=E2E8F0&area=true&area_color=1E293B&hide_border=true&hide_title=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph-phi-ten.vercel.app/graph?username=jlandaa&bg_color=FFFFFF&color=1E293B&line=0A66C2&point=0A192F&area=true&area_color=E2E8F0&hide_border=true&hide_title=true" />
+    <img alt="GitHub Activity Graph" src="https://github-readme-activity-graph-phi-ten.vercel.app/graph?username=jlandaa&bg_color=0D1117&color=94A3B8&line=38BDF8&point=E2E8F0&area=true&area_color=1E293B&hide_border=true&hide_title=true" width="100%" />
+  </picture>
 </div>
