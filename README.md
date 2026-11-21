@@ -58,7 +58,7 @@ I bridge the gap between traditional Business Intelligence and modern, AI-driven
 
 **CI/CD & DevOps**
 
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-1E293B?style=for-the-badge&logo=github-actions&logoColor=2088FF) ![Docker](https://img.shields.io/badge/Docker-1E293B?style=for-the-badge&logo=docker&logoColor=2496ED)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-1E293B?style=for-the-badge&logo=github-actions&logoColor=2088FF) ![Docker](https://img.shields.io/badge/Docker-1E293B?style=for-the-badge&logo=docker&logoColor=2496ED) ![Pytest](https://img.shields.io/badge/Pytest-1E293B?style=for-the-badge&logo=pytest&logoColor=0A9EDC) ![Ruff](https://img.shields.io/badge/Ruff-1E293B?style=for-the-badge&logo=ruff&logoColor=D7FF64)
 
 ---
 
