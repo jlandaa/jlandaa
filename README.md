@@ -18,7 +18,8 @@ I bridge the gap between traditional Business Intelligence and modern, AI-driven
 
 <p align="left">
   <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/jlandaa/portfolio-monitor/main/uptime.json&style=flat-square&labelColor=1E293B" alt="Streamlit Apps Status" />
-  <a href="https://github.com/jlandaa/Retail-Price-Scraper/actions"><img src="https://img.shields.io/github/actions/workflow/status/jlandaa/Retail-Price-Scraper/etl_fravega.yml?label=ETL%20Fr%C3%A1vega&style=flat-square&labelColor=1E293B" alt="ETL Status" /></a>
+  <a href="https://github.com/jlandaa/Retail-Price-Scraper/actions/workflows/etl_fravega.yml"><img src="https://img.shields.io/github/actions/workflow/status/jlandaa/Retail-Price-Scraper/etl_fravega.yml?label=ETL%20Fr%C3%A1vega&style=flat-square&labelColor=1E293B" alt="ETL Status" /></a>
+  <a href="https://github.com/jlandaa/Retail-Price-Scraper/actions/workflows/ci.yml"><img src="https://img.shields.io/github/actions/workflow/status/jlandaa/Retail-Price-Scraper/ci.yml?label=CI%20Fr%C3%A1vega&style=flat-square&labelColor=1E293B" alt="CI Quality Status" /></a>
 </p>
 
 | Solution | Focus & Stack | Links |
