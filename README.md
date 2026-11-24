@@ -32,6 +32,14 @@ I bridge the gap between traditional Business Intelligence and modern, AI-driven
 
 ---
 
+### 🏆 **Certifications & Data Governance**
+
+- <img src="https://img.shields.io/badge/MICROSTRATEGY-CERTIFIED-D9232E?style=for-the-badge&labelColor=1E293B&logo=microstrategy&logoColor=white" align="center" alt="MicroStrategy Certified" /> &nbsp;**Project Architect, Administrator, Database Administrator, and ONE Professional.**
+- <img src="https://img.shields.io/badge/ALATION-CERTIFIED-2563EB?style=for-the-badge&labelColor=1E293B" align="center" alt="Alation Certified" /> &nbsp;**Professional - Consultant & Seller.**
+- <img src="https://img.shields.io/badge/SODA-DATA_QUALITY-0EA5E9?style=for-the-badge&labelColor=1E293B" align="center" alt="Soda Data Quality" /> &nbsp;**Cloud Fundamentals.**
+
+---
+
 ### 🏗️ **Data & AI Architecture**
 
 [![End-to-End AI, Lakehouse & BI Architecture](./data_architecture.gif)](https://juan-manuel-landa.netlify.app)
@@ -59,14 +67,6 @@ I bridge the gap between traditional Business Intelligence and modern, AI-driven
 **CI/CD & DevOps**
 
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-1E293B?style=for-the-badge&logo=github-actions&logoColor=2088FF) ![Docker](https://img.shields.io/badge/Docker-1E293B?style=for-the-badge&logo=docker&logoColor=2496ED) ![Pytest](https://img.shields.io/badge/Pytest-1E293B?style=for-the-badge&logo=pytest&logoColor=0A9EDC) ![Ruff](https://img.shields.io/badge/Ruff-1E293B?style=for-the-badge&logo=ruff&logoColor=D7FF64)
-
----
-
-### 🏆 **Certifications & Data Governance**
-
-- <img src="https://img.shields.io/badge/MICROSTRATEGY-CERTIFIED-D9232E?style=for-the-badge&labelColor=1E293B&logo=microstrategy&logoColor=white" align="center" alt="MicroStrategy Certified" /> &nbsp;**Project Architect, Administrator, Database Administrator, and ONE Professional.**
-- <img src="https://img.shields.io/badge/ALATION-CERTIFIED-2563EB?style=for-the-badge&labelColor=1E293B" align="center" alt="Alation Certified" /> &nbsp;**Professional - Consultant & Seller.**
-- <img src="https://img.shields.io/badge/SODA-DATA_QUALITY-0EA5E9?style=for-the-badge&labelColor=1E293B" align="center" alt="Soda Data Quality" /> &nbsp;**Cloud Fundamentals.**
 
 ---
 
