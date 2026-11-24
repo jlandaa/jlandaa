@@ -21,6 +21,7 @@ I bridge the gap between traditional Business Intelligence and modern, AI-driven
   <a href="https://github.com/jlandaa/Retail-Price-Scraper/actions/workflows/etl_fravega.yml"><img src="https://img.shields.io/github/actions/workflow/status/jlandaa/Retail-Price-Scraper/etl_fravega.yml?label=ETL%20Fr%C3%A1vega&style=flat-square&labelColor=1E293B" alt="ETL Status" /></a>
   <a href="https://github.com/jlandaa/Retail-Price-Scraper/actions/workflows/ci.yml"><img src="https://img.shields.io/github/actions/workflow/status/jlandaa/Retail-Price-Scraper/ci.yml?label=CI%20Fr%C3%A1vega&style=flat-square&labelColor=1E293B" alt="CI Quality Status" /></a>
   <a href="https://github.com/jlandaa/ETL-ADR-Argentina/actions/workflows/ci.yml"><img src="https://img.shields.io/github/actions/workflow/status/jlandaa/ETL-ADR-Argentina/ci.yml?label=CI%20ETL%20ADR&style=flat-square&labelColor=1E293B" alt="CI ETL ADR Status" /></a>
+  <a href="https://github.com/jlandaa/Sales-AI-Chatbot/actions/workflows/ci.yml"><img src="https://img.shields.io/github/actions/workflow/status/jlandaa/Sales-AI-Chatbot/ci.yml?label=CI%20Sales%20AI&style=flat-square&labelColor=1E293B" alt="CI Sales AI Status" /></a>
 </p>
 
 | Solution | Focus & Stack | Links |
