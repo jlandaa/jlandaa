@@ -18,7 +18,8 @@ I bridge the gap between traditional Business Intelligence and modern, AI-driven
 
 <p align="left">
   <a href="https://github.com/jlandaa/portfolio-monitor"><img src="https://raw.githubusercontent.com/jlandaa/portfolio-monitor/main/uptime.svg" alt="Streamlit Apps Status" /></a>
-  <a href="https://github.com/jlandaa/portfolio-monitor"><img src="https://raw.githubusercontent.com/jlandaa/portfolio-monitor/main/ci_status.svg" alt="CI & ETL Pipelines Status" /></a>
+  <a href="https://github.com/jlandaa/Retail-Price-Scraper/actions/workflows/etl_fravega.yml"><img src="https://raw.githubusercontent.com/jlandaa/portfolio-monitor/main/etl_status.svg" alt="ETL Frávega Status" /></a>
+  <a href="https://github.com/jlandaa/portfolio-monitor"><img src="https://raw.githubusercontent.com/jlandaa/portfolio-monitor/main/ci_status.svg" alt="CI Quality Status" /></a>
 </p>
 
 | Solution | Focus & Stack | Links |
